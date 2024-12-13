@@ -91,5 +91,5 @@ This project focuses on predicting protein secondary structures such as alpha-he
 - [Protein Secondary Structure - Wikipedia](https://en.wikipedia.org/wiki/Protein_secondary_structure)
 - [Deep Learning for Protein Structure - Scientific Reports](https://doi.org/10.1038/srep18962)
 
-**Contributors:** Shravani Shilimkar and Team
+**Contributors:** Shravani Shilimkar and Aditi Tarate
 
