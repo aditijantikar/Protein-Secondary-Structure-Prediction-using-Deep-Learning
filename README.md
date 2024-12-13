@@ -65,19 +65,6 @@ This project focuses on predicting protein secondary structures such as alpha-he
    ```bash
    git clone <repository-url>
    cd <repository-folder>
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Train the model:
-   ```bash
-   python train.py
-   ```
-4. Evaluate the model:
-   ```bash
-   python evaluate.py
-   ```
 
 ## Future Improvements
 
