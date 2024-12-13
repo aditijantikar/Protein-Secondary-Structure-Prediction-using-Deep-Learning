@@ -20,7 +20,7 @@ This project focuses on predicting protein secondary structures such as alpha-he
 
 ## Dataset
 
-- **Source:** CullPDB dataset
+- **Source:** CullPDB dataset -- https://dl.acm.org/doi/10.5555/3044805.3044890 
 - **Format:** Protein sequences and their features in NumPy arrays
 - **Input Features:** Position-Specific Scoring Matrix (PSSM) encoding with 21 features per residue, including evolutionary and structural information.
 - **Labels:** Secondary structure labels based on the DSSP classification (8 classes: L, B, E, G, I, H, S, T)
